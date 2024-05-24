@@ -15,3 +15,14 @@ Na inštaláciu knižnice DoXpy je potrebné virtual env alebo Docker.
 
 ## Prostredie
 Práca bola vytvorená vo virtuálnom prostredí WSL a na fungovanie všetkých funkcií je nutné nainštalovať potrebné knižnice.
+
+
+@article{sovrano2023objective,
+  title={An objective metric for explainable AI: how and why to estimate the degree of explainability},
+  author={Sovrano, Francesco and Vitali, Fabio},
+  journal={Knowledge-Based Systems},
+  volume={278},
+  pages={110866},
+  year={2023},
+  publisher={Elsevier}
+}
