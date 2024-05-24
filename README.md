@@ -13,5 +13,5 @@ Súčasťou tejto práce je knižnica DoXpy, ktorá implementuje metriku DoX. Kn
 ## Inštalácia
 Na inštaláciu knižnice DoXpy je potrebné virtual env alebo Docker.
 
-##Prostredie
+## Prostredie
 Práca bola vytvorená vo virtuálnom prostredí WSL a na fungovanie všetkých funkcií je nutné nainštalovať potrebné knižnice.
